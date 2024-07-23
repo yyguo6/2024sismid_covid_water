@@ -3,7 +3,8 @@ load(here::here("data", "clean.Rdata"))
 library(tidyverse)
 library(forcats)
 
-# add comment!
+
+# add another comment
 
 plot1 = covid %>%
   mutate(county = factor(county),

@@ -1,0 +1,9 @@
+.Renviron
+.Rhistory
+.DS_Store
+.Rproj.user/
+*.png
+*.pdf
+results/*
+data/*
+draft/*
